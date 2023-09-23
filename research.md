@@ -6,7 +6,8 @@ category: "research"
 ---
 
 
-<h2>[Military Conscription and Higher Educational Attainment in Ukraine](documents/Berchuk_JMP.pdf "download")</h2>
+<h2>[Military Conscription and Higher Educational Attainment in Ukraine](documents/Berchuk_JMP.pdf "download")
+</h2>
 <br>
 Compulsory military service via draft is prevalent in several countries, with some leniency offered for university students. In 1989, Gorbachev delayed the draft for university students until after they graduate. This provided young men with the opportunity to avoid the draft during times of political instability in Ukraine. I apply a regression discontinuity design to cohorts making university application decisions around two periods of instability: 1990 and 2004 and find that the effect on higher educational attainment is large in magnitude, positive, and highly statistically significant. I connect these findings to the increase in university entrants in Ukraine today in response to the war with Russia.
 <br>
@@ -25,6 +26,6 @@ School safety has received a lot of attention from parents and schools, particul
 <h2>Impacts of Recess on Student Achievement</h2>
 <br>
 Many school districts in the United States do not require a minimum recess time for elementary school students. With such few guidelines, some schools provide only two 30 minute sessions per week or often conflate gym time with recess time to maximize the number of instructional hours. Starting from the 2017-2018 school year, Florida passed a state-wide requirement that all schools provide at least 20 minutes of free play for students in grades K-5. Leveraging this new law, I apply a difference in difference design that compares school districts that already had recess policies in place with those that were forced to provide it. I find that providing more recess time for students did not have a negative impact on test scores or attendance, suggesting that students can and should be allowed breaks to be themselves throughout the day without concern of it negatively impacting the school’s academic standing. 
-***
+
 <br>
 <br>
