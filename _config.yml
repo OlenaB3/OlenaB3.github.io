@@ -8,7 +8,7 @@
 # Site settings
 title: Olena Berchuk
 email: olenab@udel.edu
-description: PhD Candidate
+description: PhD Candidate in Economics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://OlenaB3.github.io/" # the base hostname & protocol for your site
 paginate: 5
