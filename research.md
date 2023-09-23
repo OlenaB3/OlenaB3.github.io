@@ -5,48 +5,26 @@ permalink: /research/
 category: "research"
 ---
 
-![microbiome maturation](/images/microbiome_maturation.png)
+
+<h2>Military Conscription and Higher Educational Attainment in Ukraine</h2>
+<br>
+Compulsory military service via draft is prevalent in several countries, with some leniency offered for university students. In 1989, Gorbachev delayed the draft for university students until after they graduate. This provided young men with the opportunity to avoid the draft during times of political instability in Ukraine. I apply a regression discontinuity design to cohorts making university application decisions around two periods of instability: 1990 and 2004 and find that the effect on higher educational attainment is large in magnitude, positive, and highly statistically significant. I connect these findings to the increase in university entrants in Ukraine today in response to the war with Russia.
 <br>
 <br>
 
 ***
 
-<h2>Assembly of the Infant Microbiome</h2>
+<h2>Student Safety and Schooling Outcomes</h2>
 <br>
-The goals of this project include improving our understanding of the microbes that colonize infants at birth, as well as the ecological and evolutionary forces that shape those communities as they mature into stable, resilient communities later in life.  
-<br>
-Read the preprint on bioRxiv:
-<br>
-[Microbiota Assembly, Structure, and Dynamics Among Tsimane Horticulturalists of the Bolivian Amazon.](https://www.biorxiv.org/content/10.1101/779074v1.full) Daniel D. Sprockett, Melanie Martin, Elizabeth K. Costello, Adam Burns, Susan P. Holmes, Michael Gurven, David A. Relman (2019) <i>Submitted.</i> 
+School safety has received a lot of attention from parents and schools, particularly with the rise of gun violence. Understanding the mechanisms and the size of the effect of student safety on academic outcomes can be helpful in setting up effective policies for schools, both in the form of preventive and supportive measures. I use a new data set that stems from students’ perceptions of safety and attempt to get causal estimates by instrumenting for safety via a school’s distance from a school shooting. Although I find some statistically significant effects for math and science test scores, my instrument is weak and none of these results should be taken as causal.  
 <br>
 <br>
 
 ***
 
-<h2>Heritable Features in the Salivary Microbiome</h2>
+<h2>Impacts of Recess on Student Achievement</h2>
 <br>
-Through a collaboration with the [Department of Twins Research](http://twinsuk.ac.uk/) at King's College, London, I am identifying heritible features of the salivary microbiome.   
-<br>
-<br>
-
-***
-
-<h2>The Microbiome in Very Early-Onset Inflammatory Bowel Disease</h2>
-<br>
-Very Early-Onset Inflammatory Bowel Disease (VEO-IBD) is chronic and recurrent inflammation of the gastrointestinal tract diagnosed in children under the age of 6.<br>
-<br>
-The disease that develops in these very young patients often differs from older children or adults, both in terms of its tissue involvement and severity, making diagnosis and treatment more difficult. Furthermore, VEO-IBD patients often don’t respond to therapies used in adult IBD.<br>
-<br>
-The communities of bacteria that live in in the gut of small children often have different composition than those that live in adults, and these differences could impact VEO-IBD disease course, as well as how they respond to treatment. Therefore, we are exploring the role of the oral and intestinal microbiome in this rare childhood disease which will pave the way for better diagnostics and treatments. <br>
-<br>
-For more information, please check out the [study website](http://med.stanford.edu/relmanlab/projects/the-microbiome-in-early-childhood/veo-ibd-and-the-microbiome.html).<br>
-<br>
-Sampling Instructional Video:<br>
-<br>
-<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1392761/sp/139276100/embedIframeJs/uiconf_id/23332312/partner_id/1392761?iframeembed=true&playerId=kaltura_player&entry_id=0_oj289523&flashvars[mediaProtocol]=rtmp&amp;flashvars[streamerType]=rtmp&amp;flashvars[streamerUrl]=rtmp://www.kaltura.com:1935&amp;flashvars[rtmpFlavors]=1&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&wid=0_cba40pqq" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0" title="Kaltura Player"></iframe>
-<br>
-<br>
-
+Many school districts in the United States do not require a minimum recess time for elementary school students. With such few guidelines, some schools provide only two 30 minute sessions per week or often conflate gym time with recess time to maximize the number of instructional hours. Starting from the 2017-2018 school year, Florida passed a state-wide requirement that all schools provide at least 20 minutes of free play for students in grades K-5. Leveraging this new law, I apply a difference in difference design that compares school districts that already had recess policies in place with those that were forced to provide it. I find that providing more recess time for students did not have a negative impact on test scores or attendance, suggesting that students can and should be allowed breaks to be themselves throughout the day without concern of it negatively impacting the school’s academic standing. 
 ***
 <br>
 <br>
