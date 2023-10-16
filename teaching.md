@@ -6,14 +6,14 @@ category: "teaching"
 ---
 
 <h2>Instructor of Record</h2> 
-<br>
 Intermediate Microeconomic Theory
+<br>
 Introduction to Macroeconomics
 <br>
 <br>
 
-***
 <h2>Head TA</h2> 
-- Substitute lecturer for 270+ student class, managed and organized other TAs
+Substitute lecturer for 270+ student class, managed and organized other TAs
+<br>
 Introduction to Macroeconomics
 Introcution to Microeconomics
