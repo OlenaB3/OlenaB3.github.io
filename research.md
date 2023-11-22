@@ -7,7 +7,7 @@ category: "research"
 
 <h2><a href="/documents/Berchuk_JMP.pdf">Military Conscription and Higher Educational Attainment in Ukraine</a></h2> 
 <br>
-Compulsory military service via draft is prevalent in several countries, with some leniency offered for university students. In 1989, Gorbachev delayed the draft for university students until after they graduate. This provided young men in Ukraine with the opportunity to avoid the draft during times of political instability. I apply a regression discontinuity design to cohorts making university application decisions around two periods of instability, 1990 and 2004. I find that the effect on higher educational attainment is large in magnitude, positive, and highly statistically significant. I connect these findings to the increase in university entrants in Ukraine today in response to the war with Russia.
+Compulsory military service via draft is prevalent in several countries, with some leniency offered for university students. In 1989, a change in the Ukrainian conscription law delayed the draft for university students until after they graduate. This provided young men in Ukraine with the opportunity to avoid the draft during times of political instability. I apply a regression discontinuity design to cohorts making university application decisions around two periods of instability (1990 and 2004). I find that the effect of deferral on higher educational attainment is large in magnitude, positive, and highly statistically significant. I connect these findings to the increase in university entrants in Ukraine in 2023 in response to the war with Russia.
 <br>
 <br>
 
