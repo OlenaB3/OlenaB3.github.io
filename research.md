@@ -15,7 +15,7 @@ Compulsory military service via draft is prevalent in several countries, with so
 
 <h2>Student Safety and Schooling Outcomes</h2>
 <br>
-School safety has received a lot of attention from parents and schools, particularly with the rise of gun violence. Understanding the mechanisms and the size of the effect of student safety on academic outcomes can be helpful in setting up effective policies for schools, both in the form of preventive and supportive measures. I use a new data set that stems from students’ perceptions of safety and attempt to get causal estimates by instrumenting for safety via a school’s distance from a school shooting. Although I find some statistically significant effects for math and science test scores, my instrument is weak and none of these results should be taken as causal.  
+School safety has received a lot of attention from parents and schools, particularly with the rise of gun violence. Understanding the mechanisms and the size of the effect of student safety on academic outcomes can be helpful in setting up effective policies for schools, both in the form of preventive and supportive measures. I use a new data set that stems from students’ perceptions of safety and find large, negative impacts of feeling  unsafe on student test scores when using student-level fixed effects. I also discuss instrumenting for safety via a school’s distance from a school shooting.  
 <br>
 <br>
 
