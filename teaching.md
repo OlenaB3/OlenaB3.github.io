@@ -5,6 +5,11 @@ permalink: /teaching/
 category: "teaching"
 ---
 
+<h2>Visitng Assistant Professor</h2> 
+Money and Banking
+<br>
+<br>
+
 <h2>Instructor of Record</h2> 
 Intermediate Microeconomic Theory
 <br>
