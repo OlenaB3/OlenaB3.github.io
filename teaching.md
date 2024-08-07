@@ -5,7 +5,7 @@ permalink: /teaching/
 category: "teaching"
 ---
 
-<h2>Visitng Assistant Professor</h2> 
+<h2>Visitng Assistant Professor, University of Delaware</h2> 
 Money and Banking
 <br>
 <br>
