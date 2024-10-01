@@ -8,7 +8,7 @@ category: "teaching"
 <h2>Visitng Assistant Professor, University of Delaware</h2> 
 Money and Banking
 <br>
-Intermediate Microeconomic Theory (Spring 2025)
+Intermediate Microeconomic Theory 
 <br>
 <br>
 
