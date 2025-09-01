@@ -10,6 +10,8 @@ Money and Banking
 <br>
 Intermediate Microeconomic Theory 
 <br>
+Introduction to Macroeconomics
+<br>
 <br>
 
 <h2>Instructor of Record</h2> 
