@@ -4,20 +4,27 @@ title: Teaching
 permalink: /teaching/
 category: "teaching"
 ---
-
+<h2>Lecturer of Economics, Dartmouth College</h2> 
+Introduction to Statistical Methods (Econ 10)
+<br>
+Macroeconomics (Econ 22)
+<br>
+The Price System: Analysis, Problems, and Policies (Econ 01)
+<br>
+<br>
 <h2>Visitng Assistant Professor, University of Delaware</h2> 
-Money and Banking
+Money and Banking (Econ 308)
 <br>
-Intermediate Microeconomic Theory 
+Intermediate Microeconomic Theory (Econ 300)
 <br>
-Introduction to Macroeconomics
+Introduction to Macroeconomics (Econ 103)
 <br>
 <br>
 
 <h2>Instructor of Record</h2> 
-Intermediate Microeconomic Theory
+Intermediate Microeconomic Theory (Econ 300)
 <br>
-Introduction to Macroeconomics
+Introduction to Macroeconomics (Econ 103)
 <br>
 <br>
 
@@ -25,6 +32,6 @@ Introduction to Macroeconomics
 (Substitute lecturer for 270+ student class, managed and organized other TAs)
 <br>
 <br>
-Introduction to Macroeconomics
+Introduction to Macroeconomics (Econ 103)
 <br>
-Introcution to Microeconomics
+Introduction to Microeconomics (Econ 101)
